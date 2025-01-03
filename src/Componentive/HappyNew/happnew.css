@@ -1,0 +1,13 @@
+.welcomClass{
+border-radius: 20px;
+border: 0.85px solid #e5e7eb;
+
+}
+.welCome{
+    font-weight: 500;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    color: blueviolet;
+    font-size: 50px;
+}

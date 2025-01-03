@@ -1,0 +1,117 @@
+.secondPage {
+  border-radius: 84.52px;
+  border: 0.85px;
+  border: 0.85px solid #e5e7eb;
+  margin: auto;
+  width: 144.57px;
+  height: 41.28px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding-top: 10.14px;
+  padding-right: 20.28px;
+  padding-bottom: 10.14px;
+  padding-left: 20.28px;
+}
+.userSearch {
+  width: 20px;
+  height: 20px;
+  color: #374151;
+}
+.pageTwo {
+  width: 76px;
+  height: 21px;
+  color: #374151;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+}
+.adharVerification {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  line-height: 23.4px;
+  color: #111827;
+}
+.digiLocker {
+  width: 427px;
+  height: 42px;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  justify-content: center;
+  text-align: center;
+  color: #6b7280;
+  margin: auto;
+  padding-top: 20px;
+}
+.belongsClass {
+  width: 472px;
+  height: 42px;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  justify-content: center;
+  text-align: center;
+  color: #666666;
+  margin: auto;
+}
+.adharDocs {
+  height: 58px;
+  width: 759px;
+  margin: auto;
+  font-size: 12px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  justify-content: center;
+  text-align: center;
+  color: #666666;
+  align-items: center;
+  padding-top: 25px;
+}
+.BackSection {
+  width: 962.58px;
+  height: 630.28px;
+  gap: 8px;
+  margin: auto;
+  border-radius: 30px;
+  border: 0.73px;
+  border: 0.73px solid #e5e7eb;
+}
+.headBack {
+  display: flex;
+  gap: 4px;
+  width: 63px;
+  height: 24px;
+  padding-left: 50px;
+  padding-top: 15px;
+}
+.backClick {
+  display: flex;
+  width: 35px;
+  height: 21px;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #111827;
+}
+.vueSax {
+  display: flex;
+  align-items: start;
+  color: #292d32;
+  margin-top: 11px;
+}
+.imageArrow {
+  display: flex;
+  margin-bottom: 10px;
+}
+.adhrDetls {
+  width: 495px;
+  height: 110px;
+  border-radius: 10px;
+  border: 1px;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+}

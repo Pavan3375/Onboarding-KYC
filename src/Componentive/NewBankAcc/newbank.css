@@ -1,0 +1,16 @@
+.stockBank {
+  display: flex;
+  gap: 30px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  margin-top: 45px;
+}
+.newbankBorder {
+  width: 963px;
+  height: 600px;
+  border-radius: 30px;
+  gap: 40px;
+  border: 0.73px solid #e5e7eb;
+  margin: auto;
+}

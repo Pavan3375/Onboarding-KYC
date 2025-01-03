@@ -1,0 +1,377 @@
+.devLogo {
+  align-items: start;
+  display: flex;
+  width: 33.1px;
+  height: 33.03px;
+  top: 3.48px;
+  margin-top: 20px;
+}
+.devDash {
+  display: flex;
+  width: 82.31px;
+  height: 40px;
+  left: 43.45px;
+  size: 20px;
+  line-height: 40px;
+  color: #000000;
+}
+.headerOn {
+  display: flex;
+  width: 1440px;
+  height: 90px;
+}
+.headerMode {
+  display: flex;
+  gap: 15px;
+  width: 125.5px;
+  height: 40px;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.devScret {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.devStyle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: -30px;
+}
+.aiRectangle {
+  width: 340px;
+  margin: auto;
+  border-radius: 32px;
+  border: 1px;
+  color: #ffffff;
+  border: 1px solid #e5e5e5;
+  box-shadow: #0000000d;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.devSign {
+  color: #111827;
+  text-align: center;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  height: 63px;
+  font-weight: 400;
+}
+.devFunds {
+  color: #6b7280;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  height: 63px;
+  font-weight: 400;
+  margin-top: -35px;
+}
+.nriLink {
+  color: #3263e5;
+  height: 20px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 20px;
+}
+.termsPolicy {
+  color: #111827;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  size: 10px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #4b5563;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: small;
+}
+.countryCode {
+  color: #6b7280;
+}
+
+.otpInfo {
+  color: #6b7280;
+  height: 20px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  align-items: center;
+  margin-bottom: 80px;
+}
+.inputGroup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  border-radius: 100px;
+  border: 1px;
+  padding-top: 19px;
+  padding-right: 16px;
+  padding-bottom: 19px;
+  padding-left: 16px;
+  border: 1px solid #e5e7eb;
+  height: 60px;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+.buttonName {
+  height: 21px;
+  font-size: medium;
+  size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #384048;
+  border: 1px;
+  border: 1px solid #e5e7eb;
+}
+.continueBtn {
+  width: 290px;
+  height: 60px;
+  border-radius: 30px;
+  border: 1px;
+  padding-top: 15px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  color: #f8f8f8;
+  border: 1px solid #121923;
+  background: #121923;
+}
+.earlyPaying {
+  color: #000000;
+}
+
+.footerSub {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 20px;
+  margin: 30px auto;
+  width: 100%;
+}
+
+.footerWrite {
+  display: flex;
+  text-align: start;
+  flex-direction: column;
+  width: 423px;
+  height: 329px;
+  gap: 10px;
+}
+.infoElement {
+  display: flex;
+}
+.ncoInfo {
+  display: flex;
+  height: 20px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  font-size: small;
+}
+.addressSection {
+  display: flex;
+  text-align: start;
+  height: 39px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  font-size: small;
+}
+.pvtLmt {
+  display: flex;
+  text-align: start;
+  height: 58px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  font-size: small;
+  margin-bottom: 10px;
+}
+.emailSection {
+  height: 20px;
+  text-align: start;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #111827;
+  font-size: small;
+}
+.emailId {
+  height: 20px;
+  text-align: start;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  font-size: small;
+  margin-top: 4px;
+}
+.socialIngo {
+  width: 174px;
+  height: 34.5px;
+}
+.socialBox {
+  text-align: start;
+  display: flex;
+  margin-top: 25px;
+}
+.wrapperDot {
+  color: #00000080;
+  width: 14px;
+  height: 16px;
+}
+.footerStock {
+  color: #6b7280;
+}
+.footerSection {
+  display: flex;
+}
+.companyInfo {
+  color: #111827;
+  height: 21px;
+  size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  font-size: medium;
+}
+.businessInfo {
+  height: 18px;
+  size: 11.67px;
+  line-height: 17.5px;
+  letter-spacing: 0.17px;
+  color: #6b7280;
+  font-size: small;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.companyJoin {
+  height: 20px;
+  font-size: small;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #111827;
+}
+.stayData {
+  height: 20px;
+  font-size: small;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  display: flex;
+  margin-top: 20px;
+}
+.flexData {
+  display: flex;
+  width: 318px;
+  height: 44px;
+  border-radius: 7.5px;
+  border: 0.75px;
+  justify-content: space-between;
+  padding-top: 12px;
+  padding-right: 15px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  color: Base/white;
+  border: 0.75px solid #e5e7eb;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.emailInfo {
+  font-size: small;
+  size: 12px;
+  letter-spacing: 0.2px;
+  color: #505561;
+  margin-bottom: 20px;
+}
+.googleSection {
+  display: flex;
+  gap: 30px;
+}
+.paraSection {
+  height: 69px;
+  font-size: small;
+  size: 11.67px;
+  line-height: 23.33px;
+  color: #6b7280;
+  text-align: start;
+  margin-top: 80px;
+}
+.paraSection1 {
+  height: 46px;
+  font-size: small;
+  size: 11.67px;
+  line-height: 23.33px;
+  color: #6b7280;
+  text-align: start;
+}
+.paraSection2 {
+  height: 23px;
+  size: 11.67px;
+  line-height: 23.33px;
+  color: #6b7280;
+  font-size: small;
+  text-align: start;
+}
+.paraSection3 {
+  height: 46px;
+  font-size: small;
+  size: 11.67px;
+  line-height: 23.33px;
+  color: #6b7280;
+  text-align: start;
+}
+.paraSection4 {
+  height: 115px;
+  font-size: small;
+  size: 11.67px;
+  line-height: 23.33px;
+  color: #6b7280;
+  text-align: start;
+}
+.wrapHeader {
+  background-color: #f3f4f6;
+  width: 1400px;
+  height: 824px;
+  top: 531px;
+  border-radius: 18px;
+  padding: 30px;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 100px;
+}
+.inventData {
+  display: flex;
+  justify-content: space-between;
+  height: 35px;
+  gap: 28.5px;
+  font-size: small;
+  justify-content: center;
+  height: 20px;
+  size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  font-size: small;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}

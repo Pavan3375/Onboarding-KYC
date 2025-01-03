@@ -1,0 +1,65 @@
+.easyAdd {
+  width: 572px;
+  height: 116px;
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+}
+.easyAdd {
+  height: 68px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #6b7280;
+  margin-top: 40px;
+}
+.addNominee {
+  height: 24px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23.4px;
+  text-align: center;
+  color: #111827;
+  margin-top: 20px;
+}
+.skipClass {
+  height: 21px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: Black;
+}
+.continueClass {
+  width: 187px;
+  height: 50px;
+  border-radius: 1000px;
+  gap: 7.84px;
+  border: 1.5px solid #e5e7eb;
+}
+.skipBut {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 280px;
+  gap: 20px;
+}
+.nomineeContainer{
+  width: 963px;
+  height: 442px;
+  gap: 8px;
+  margin: auto;
+  border: 0.73px solid #E5E7EB;
+}
+
+  
+  
+  .buttonCrops button:disabled {
+    color: gray;
+    cursor: not-allowed;
+  }
+  
+

@@ -1,0 +1,130 @@
+.panImg {
+  color: #374151;
+  padding-top: 8px;
+}
+
+.insideData {
+  padding-bottom: 10px;
+  font-size: small;
+  letter-spacing: 0.2px;
+  color: #374151;
+}
+.keyboardIcon {
+  border-radius: 84.52px;
+  border: 0.85px;
+  border: 0.85px solid #e5e7eb;
+  margin: auto;
+  width: 130.57px;
+  height: 41.28px;
+  display: flex;
+  gap: 8px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.enterDetails {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: x-large;
+  size: 18px;
+  line-height: 23.4px;
+  color: #111827;
+  margin-top: 7px;
+}
+.verifiedName {
+  height: 21px;
+  font-size: small;
+  size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #6b7280;
+  margin-bottom: 28px;
+  padding-bottom: 10px;
+  margin-top: -25px;
+}
+.overviewBorder {
+  width: 965px;
+  height: 716px;
+  border-radius: 30px;
+  border: 0.73px;
+  border: 0.73px solid #e5e7eb;
+  margin: auto;
+  margin-top: 25px;
+}
+.inputGrouptype {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  width: 300px;
+  height: 60px;
+  border: 1px;
+  border: 1px solid #e5e7eb;
+}
+.dateContainer {
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  border-radius: 100px;
+  margin-top: 25px;
+  gap: 2px;
+  width: 300px;
+}
+
+.offlineView {
+  height: 20px;
+  font-size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  justify-content: center;
+  color: #4b5563;
+}
+.incomeData {
+  flex-wrap: wrap;
+  align-items: baseline;
+  line-height: 1.5;
+  color: #4b5563;
+  gap: 4px;
+  font-size: 12px;
+  padding-top: 8px;
+}
+
+.verificaTion {
+  height: 20px;
+  font-size: 12px;
+  margin-top: -10px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  justify-content: center;
+  color: #4b5563;
+}
+.offlineForms {
+  height: 20px;
+  font-size: 12px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  justify-content: center;
+  color: #4b5563;
+  display: flex;
+}
+
+.dataCollection {
+  width: 759px;
+  height: 153px;
+  border-radius: 8px;
+  border: 1px;
+  gap: 8px;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+  display: flex;
+  text-align: start;
+  flex-direction: column;
+  align-items: start;
+  padding-left: 10px;
+  margin-top: 30px;
+}

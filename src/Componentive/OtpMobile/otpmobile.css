@@ -1,0 +1,136 @@
+.croCada {
+  align-items: start;
+  display: flex;
+  width: 33.1px;
+  height: 33.03px;
+  top: 3.48px;
+  margin-top: 20px;
+}
+.devineDa {
+  display: flex;
+  width: 82.31px;
+  height: 40px;
+  left: 43.45px;
+  size: 20px;
+  line-height: 40px;
+  color: #000000;
+}
+.swiFt {
+  display: flex;
+  gap: 10px;
+  width: 125.5px;
+  height: 40px;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.devSi {
+  height: 30px;
+  size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #111827;
+}
+.devSq {
+  size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #6b7280;
+}
+.devSt {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: -20px;
+}
+.devNumber {
+  size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #6b7280;
+  margin-bottom: 70px;
+}
+.chiRag {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 32px;
+  border: 1px;
+  /* border: 1px solid #e5e5e5; */
+  color: #0000000d;
+}
+.dolLy {
+  margin-top: 17.5px;
+  margin-right: 80px;
+}
+
+.reSend {
+  display: flex;
+  justify-content: center;
+  height: 24px;
+  size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #6b7280;
+}
+.continueButton {
+  width: 290px;
+  height: 60px;
+  border-radius: 30px;
+  border: 1px;
+  padding-top: 15px;
+  padding-right: 35px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  gap: 10px;
+  color: #f8f8f8;
+  border: 1px solid #121923;
+  background: #121923;
+  margin-top: 100px;
+}
+.contaSec {
+  width: 340px;
+  height: 470px;
+  margin: auto;
+  border-radius: 32px;
+  border: 1px;
+  color: #ffffff;
+  border: 1px solid #e5e5e5;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #0000000d;
+}
+.buttonCrod {
+  margin-top: -50px;
+}
+.buttonCrop {
+  margin-top: 50px;
+}
+.inputOtp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  border-radius: 100px;
+  border: 1px;
+  border: 1px solid #e5e7eb;
+  height: 60px;
+}
+.wrapHeadere {
+  width: 1400px;
+  height: 824px;
+  top: 531px;
+  border-radius: 18px;
+  padding: 30px;
+  gap: 30px;
+  background-color: #f3f4f6;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+
+}

@@ -1,0 +1,47 @@
+.disOn {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 26px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color: #1a1a1a;
+}
+.indTraders {
+  font-weight: 400;
+  font-size: 20px;
+  color: #111827;
+}
+.lossMaker {
+  font-weight: 400;
+  font-size: 20px;
+  color: #111827;
+}
+.netTrading {
+  font-weight: 400;
+  font-size: 20px;
+  color: #111827;
+  line-height: 50px;
+}
+.tradingProfit {
+  font-weight: 400;
+  font-size: 20px;
+  color: #111827;
+}
+.sourcePara{
+    
+color: #4B5563;
+line-height: 32px;
+font-size: 20px;
+font-weight: 400;
+}
+.doneWrite{
+  display: flex;
+  gap:15px;
+  color:  #111827;
+}
+.riskLine{
+  padding-top: -40px;
+}
+

@@ -1,0 +1,99 @@
+.devCart {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: -20px;
+}
+.devSend {
+  color: #111827;
+  text-align: center;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  height: 63px;
+  font-weight: 400;
+}
+.inputGrouping {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  border-radius: 30px;
+  border: 1px;
+  text-align: center;
+}
+.inputGrouper {
+  height: 60px;
+  border-radius: 30px;
+  border: 1px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding-top: 20px;
+  width: 290px;
+}
+.firoZab {
+  width: 350px;
+  height: 60px;
+  border-radius: 30px;
+  border: 1px;
+  padding-top: 75px;
+  padding-bottom: 7px;
+  gap: 10px;
+  margin-left: -40px;
+}
+.driveSeec {
+  display: flex;
+  width: 181px;
+  gap: 4px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.gooGle {
+  width: 22.41px;
+  height: 22.41px;
+  padding-top: 18.35px;
+  padding-left: 14.9px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.RecTngle {
+  width: 334px;
+  height: 480px;
+  border-radius: 32px;
+  border: 1px;
+  color: #ffffff;
+  border: 1px solid #e5e5e5;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.contiNue {
+  height: 24px;
+  font-size: medium;
+  size: 16px;
+  line-height: 23.2px;
+  letter-spacing: 0.2px;
+  color: #1f2937;
+}
+.flexIng {
+  display: flex;
+  border-radius: 1000px;
+  border: 1.5px;
+  margin-right: 20px;
+  gap: 7.84px;
+  border: 1.5px solid #e5e7eb;
+  width: 310px;
+  margin-left: -20px;
+}
+.insideSect {
+  display: flex;
+  margin-bottom: 20px;
+  gap: 7.84px;
+  margin-left: 15px;
+}

@@ -1,0 +1,79 @@
+.personInfo {
+  width: 841px;
+  height: 24px;
+  font-size: 18px;
+  line-height: 23.4px;
+  text-align: center;
+  justify-content: center;
+  color: #333333;
+  margin: auto;
+  margin-bottom: 20px;
+
+}
+.smallMaterial {
+  display: flex;
+  justify-content: center;
+  width: 145px;
+  height: 41.28px;
+  border-radius: 84.52px;
+  border: 0.85px;
+  border: 0.85px solid #e5e7eb;
+  gap: 8px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.iconicSearch {
+  width: 20px;
+  height: 20px;
+  color: #374151;
+  padding-top: 8px;
+}
+.pageThree {
+  color: #374151;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  padding-bottom: 20px;
+}
+.curveasdfBorder {
+  width: 962.58px;
+  height: 683.44px;
+  gap: 40px;
+  margin: auto;
+  border: 0.73px solid #e5e7eb;
+
+  border-radius: 30px;
+}
+.inputGrouptypercs {
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 50px;
+}
+
+.motherMoniker {
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 50px;
+}
+.nameData {
+  display: flex;
+  justify-content: center;
+  gap: 55px;
+  margin-top: 40px;
+}
+.politicsPerson {
+  padding-top: 40px;
+  border-radius: 100px;
+}
+.statusData {
+  display: flex;
+  justify-content: center;
+  gap: 55px;
+}
+.politicsPrson {
+  padding-top: 40px;
+  padding-right: 360px;
+}

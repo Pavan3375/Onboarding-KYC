@@ -1,0 +1,97 @@
+.curveBorder {
+  width: 1000px;
+  height: 900.28px;
+  gap: 40px;
+  margin: auto;
+  border-radius: 30px;
+  border: 0.73px;
+  border: 0.73px solid #e5e7eb;
+}
+.secondPagews {
+  border-radius: 84.52px;
+  border: 0.85px solid #e5e7eb;
+  margin: auto;
+  width: 144.57px;
+  height: 41.28px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding-right: 20.28px;
+}
+.userSearchvu {
+  padding-top: 10px;
+  width: 20px;
+  height: 20px;
+  color: #374151;
+}
+.pageTwoth {
+  width: 76px;
+  color: #374151;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+}
+.inputGrouptyper {
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  width: 300px;
+  height: 60px;
+  padding-left: 10px;
+}
+.dateContainerin {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.backContainer {
+  padding-top: 20px;
+}
+.dateContainerin{
+  margin-left: 44px;
+
+}
+.adressData {
+  width: 646px;
+  height: 60px;
+  top: 7.56px;
+  border-radius: 100px;
+  border: 1px;
+  gap: 2px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 25px;
+}
+.nedrContainer {
+  width: 760px;
+  height: 480px;
+  border-radius: 22px;
+  border: 1px;
+  border: 1px solid #e5e7eb;
+  background-color: #24242408;
+  margin: auto;
+  margin-top: 100px;
+}
+.asrfPed {
+  width: 140px;
+  height: 140px;
+  border-radius: 100px;
+  color: #f0f6ff;
+  margin: auto;
+  margin-top: -40px;
+}
+.qwdfYou {
+  display: flex;
+  gap: 30px;
+  padding-right: 10px;
+  padding-top: 50px;
+  margin-left: 44px;
+}
+.koikTyh {
+  display: flex;
+  gap: 30px;
+  padding-top: 30px;
+}
