@@ -1,0 +1,137 @@
+.step4Number {
+  border-radius: 84.52px;
+  border: 0.85px solid #e5e7eb;
+  margin: auto;
+  width: 144.57px;
+  height: 41.28px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 40px;
+}
+.yuhtdPut {
+  width: 20px;
+  height: 20px;
+  color: #374151;
+  padding-top: 8px;
+}
+.page2Data {
+  width: 76px;
+  color: #374151;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+}
+.linkBankdata {
+  height: 24px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23.2px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  color: #111827;
+  margin: auto;
+  margin-top: 10px;
+}
+.backAccname {
+  height: 20px;
+  font-weight: 400;
+  font-size: 13.5px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  color: #6b7280;
+  padding-top: 17px;
+}
+.upiAbc {
+  width: 75.64px;
+  height: 70.64px;
+  border-radius: 4px;
+  border: 1px;
+  gap: 15.13px;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e7eb;
+}
+.upiImage {
+  padding-top: 20px;
+}
+.upiContainer {
+  width: 474px;
+  height: 100px;
+  border-radius: 6px;
+  border: 1px;
+  gap: 12px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+  margin-top: 60px;
+}
+.verifyUpi {
+  height: 21px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #111827;
+}
+.upiDetails {
+  height: 39px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  margin-left: 113px;
+  text-align: start;
+}
+.rupeesContainer {
+  width: 75.64px;
+  height: 70.64px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+}
+.throtTler {
+  width: 474px;
+  height: 100px;
+  border-radius: 6px;
+  border: 1px;
+  gap: 12px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  margin: auto;
+  margin-top: 17px;
+}
+.rupeesHome {
+  padding-top: 13px;
+}
+.addManually {
+  height: 21px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #111827;
+}
+.addManuallyData {
+  height: 39px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19.2px;
+  letter-spacing: 0.2px;
+  color: #6b7280;
+  margin-left: 113px;
+  text-align: start;
+}
+.tailWind {
+  width: 961.32px;
+  height: 594.52px;
+  margin: auto;
+  border: 0.73px solid #e5e7eb;
+  border-radius: 30px;
+  background-color: #ffffff;
+}
